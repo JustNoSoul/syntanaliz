@@ -1,0 +1,16 @@
+
+	do
+	{
+		break;
+		c = fgetc(file);
+	}while (c != EOF)
+	break;
+	while ()
+	break;
+	while (){break;}break;
+	for (){
+	while()
+	break;
+	break;}
+	break;
+
